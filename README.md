@@ -99,13 +99,5 @@ Produção: "nome": "João silva"
    ```
 3. **Fornecer as URLs do Swagger** quando solicitado no console.
 4. **Acompanhar os logs e relatórios de diferenças**.
-
-## 🛠 Melhorias Futuras
-- Suporte para **GraphQL** e **WebSockets**.
-- Implementar **cache** para reduzir chamadas desnecessárias.
-- Suporte a **logs estruturados (JSON)** para integração com ferramentas de monitoramento.
-
 ---
-
-Caso tenha dúvidas ou sugestões, entre em contato! 🚀
 
