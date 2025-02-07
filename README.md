@@ -48,7 +48,7 @@ Este projeto tem como objetivo comparar os responses de endpoints entre dois amb
 - Exibe informações no console durante a execução.
 
 ## 🎯 Tecnologias Utilizadas
-- **C#** (.NET 6+)
+- **C#** (.NET 8+)
 - **HttpClient** (para requisições HTTP)
 - **System.Text.Json** (para manipulação de JSONs)
 - **Bogus (Faker)** (para geração de dados aleatórios)
